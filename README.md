@@ -2,7 +2,7 @@
 ## Репозиторий создан для ознакомления с моими учебными проектами на курсе Data Science Яндекс.Практикума.
 
 <code>**Название проекта** | Цель | Навыки и инструменты
-:------------- |:-----:| -------:
+:------------- |:-----| :-------
 [Исследование надежности заемщиков](https://github.com/ecoteoretic/projects-data-science/blob/main/1_borrower_reliability_study/borrower_reliability_study.ipynb) | Определить, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок | предобработка данных, Python, Pandas, лемматизация, Matplotlib, Seaborn, numpy
 [Исследование объявлений о продаже квартир](https://github.com/ecoteoretic/projects-data-science/blob/main/2_research_of_ads_for_the_sale_of_apartments/research_of_ads_for_the_sale_of_apartments.ipynb) | Нужно научиться определять рыночную стоимость объектов недвижимости. Задача — установить параметры. Это позволит построить автоматизированную систему: она отследит аномалии и мошенническую деятельность | Python, Pandas, Matplotlib, исследовательский анализ данных, визуализация данных, предобработка данных
 [Тариф для телеком компании](https://github.com/ecoteoretic/projects-data-science/blob/main/3_tariff_for_a_telecom_company/tariff_for_a_telecom_company.ipynb) | Проанализировать поведение клиентов и определить оптимальный тариф | Python, Pandas, Matplotlib, NumPy, SciPy, описательная статистика, проверка статистических гипотез
